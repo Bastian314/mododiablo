@@ -73,16 +73,16 @@ nav a:hover {
   color: var(--naranjo);
 }
 
-nav a:active {
-  color: var(--rojo);
-}
-
 #link2 a:target{
   color: var(--celeste);
 }
 
 nav a:focus {
   outline: 2px solid var(--blanco);
+}
+
+nav a:active {
+  color: var(--rojo);
 }
 
 main section {
@@ -199,3 +199,4 @@ footer {
     height: 100%;
   }
 }
+
